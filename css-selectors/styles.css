@@ -86,3 +86,11 @@ a:visited:active{
 p:last-of-type{
     margin-bottom: 50px;
 }
+
+.sidebar p:nth-child(3) {
+    color: red;
+}
+
+.sidebar p:nth-child(1){
+    color: yellow;
+}
