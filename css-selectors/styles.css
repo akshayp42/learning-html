@@ -25,6 +25,12 @@
     margin: 20px auto;
 }
 
+#button-2 {
+    color: #5D6063;  /* Dark gray */
+  }
+
+
+
 .button:hover,
 .button:visited:hover {
   color: #FFF;
